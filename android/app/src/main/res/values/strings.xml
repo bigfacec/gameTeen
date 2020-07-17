@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameTeenPattiIntro</string>
+    <string name="facebook_app_id">3420246094708906</string>
+    <string name="dialog_title">Tips</string>
+    <string name="dialog_content">Are you sure you want to exit the game?</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>
